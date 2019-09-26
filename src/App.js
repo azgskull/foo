@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import Header from '@socle/header'
+import Header from './socle/Header'
 
 function App() {
   return (
